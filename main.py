@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 import random
 
-api_key = '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'
+api_key = 'your_api_key'
 openai.api_key = api_key
 
 def reply():
